@@ -1,4 +1,10 @@
 #!/usr/bin/python
 
-print "A"
+alphabet = ["A", "B"]
+for i in alphabet:
+	print i
+
+
+
+
 
