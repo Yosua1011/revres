@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-alphabet = ["A", "B", "C", "D"]
+alphabet = ["A", "B", "C", "D", "E"]
 for i in alphabet:
 	print i
 
